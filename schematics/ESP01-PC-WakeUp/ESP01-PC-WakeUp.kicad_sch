@@ -1654,7 +1654,7 @@
     (property "Reference" "#PWR029" (id 0) (at 200.66 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (id 1) (at 193.5988 60.579 90)
+    (property "Value" "+5V" (id 1) (at 193.04 60.96 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 196.85 60.96 0)
